@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7eff00&height=120&section=header"/>
+![Matrix Animation](https://raw.githubusercontent.com/Rodrigo-Kurosawa/Rodrigo-Kurosawa/master/Matrix.gif)
 
 # Rodrigo Kurosawa
 ### Undergraduate in Computer Engineering at USP
